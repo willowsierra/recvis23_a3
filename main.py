@@ -17,7 +17,7 @@ def opts() -> argparse.ArgumentParser:
     parser.add_argument(
         "--data",
         type=str,
-        default="sketch_dataset",
+        default="data_sketches",
         metavar="D",
         help="folder where data is located. train_images/ and val_images/ need to be found in the folder",
     )
