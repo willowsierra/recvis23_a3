@@ -1,7 +1,7 @@
 ## Object recognition and computer vision 2023/2024
 
 ### Assignment 3: Sketch image classification
-
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E79WhvuiNhEGt840ZV_491h2WvPfh73Z)
 #### Requirements
 1. Install PyTorch from http://pytorch.org
 
