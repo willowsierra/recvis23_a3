@@ -240,4 +240,5 @@ def main():
 
 
 if __name__ == "__main__":
+    print("optim en cours")
     main()
