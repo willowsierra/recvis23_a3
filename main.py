@@ -213,7 +213,8 @@ def main():
     )
 
     # Setup optimizer
-    optimizer = optim.SGD(model.parameters(), lr=args.lr, momentum=args.momentum)
+    optimizer = optim.Adam(model.parameters(), lr=args.lr, momentum=args.momentum)
+    print("optim Adam")
 
     # Loop over the epochs
     best_val_loss = 1e8
